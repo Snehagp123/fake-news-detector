@@ -1,0 +1,4 @@
+model.pkl
+vectorizer.pkl
+data.csv
+__pycache__/
